@@ -48,10 +48,6 @@ Bu proje, kullanıcıların kitap okuma alışkanlıklarını yönetmelerine ve 
 - **Çok Okuyanlar:** En çok kitap okuyan kullanıcıların listesini görebilirsiniz.
 - **Arama:** Kitap adı, yazar veya tarih gibi kriterlere göre arama yapabilirsiniz.
 
-## Katkıda Bulunma
-
-Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın. Her türlü katkıya açığız!
-
 ## Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
